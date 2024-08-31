@@ -2,6 +2,7 @@
 #define OSTRICH_SNAPSHOT_CREATION_STRATEGY_H
 
 #include <vector>
+#include <cstdint>
 
 
 struct CreationStrategyMetadata {
